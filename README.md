@@ -11,3 +11,4 @@
 >[vue-the-mask 货币单位格式化](https://vuejs-tips.github.io/vue-the-mask/)
 >[vue 选择框](https://vue-multiselect.js.org)  
 >[vue 时间格式化](https://github.com/brockpetrie/vue-moment)  
+>[vue-clamp 多行截取](https://justineo.github.io/vue-clamp/demo/?lang=zh)  
